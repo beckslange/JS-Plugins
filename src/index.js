@@ -16,4 +16,5 @@ new Typewriter("h1", {
   //this makes it so that there is not a line blinking when it is typing/finished typing
   delay: 60,
   //this changes the typing speed, 10 is faster than 100
+  //style h1 in CSS
 });
